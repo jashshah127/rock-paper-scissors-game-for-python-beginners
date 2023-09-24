@@ -44,6 +44,3 @@ print(result)
 #dictionaries in python are used to store data values in key value pairs
 
 #with "" is a string, without that is a variable
-
-food = ["pizza", "burger", "cheese"]
-dinner = random.choice(food)
